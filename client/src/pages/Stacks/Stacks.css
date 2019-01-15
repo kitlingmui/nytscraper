@@ -1,0 +1,23 @@
+#index-banner{
+  background-image: url("./img/bg1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#newscontainer {
+  height: auto;
+  width: 100%;
+  padding: 40px;
+}
+
+#newstitle{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+#saved-btn, #scrape-btn {
+  margin-left: 10px;
+}
+
